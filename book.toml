@@ -1,0 +1,14 @@
+[book]
+title = "The Delta RFC Book"
+
+[output.html]
+curly-quotes = true
+no-section-label = true
+git-repository-url = "https://github.com/delta-rs/rfcs"
+site-url = "/rfcs/"
+
+[output.html.search]
+heading-split-level = 0
+
+[output.html.playground]
+runnable = false
